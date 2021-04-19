@@ -1,0 +1,25 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+}
+
+.grey {
+    background-color: lightgray;
+    color: lightslategray;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+    background-color: lightskyblue;
+}
